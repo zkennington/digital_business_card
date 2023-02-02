@@ -1,2 +1,2 @@
 # Digital Business Card
-## Edinburgh College
+_Edinburgh College_

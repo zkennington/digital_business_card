@@ -3,8 +3,8 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Kennington;Nigel;;;
 FN:Nigel Kennington
-ORG:Edinburgh College;
-TITLE:Computing Lecturer\nGames Development Lead
+ORG:Edinburgh College\, Computing Department;
+TITLE:Games Development Lead Lecturer
 EMAIL;type=INTERNET;type=WORK;type=pref:nigel.kennington@edinburghcollege.ac.uk
 TEL;type=WORK;type=VOICE:+44 131 669 4400
 item1.ADR;type=WORK;type=pref:;;Granton Campus, 350 W Granton Rd;;; EH5 1QE;Edinburgh

@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+S:Blyth;Sam;;;
+FN:Sam Blyth
+ORG:Edinburgh College\, Computing Department;
+TITLE:Head of School for Computing
+EMAIL;type=INTERNET;type=WORK;type=pref:sam.blyth@edinburghcollege.ac.uk
+TEL;type=WORK;type=VOICE:+44 7876 873 305
+item1.ADR;type=WORK;type=pref:;;Milton Road Campus, 24 Milton Rd;;; EH15 2PQ;Edinburgh
+item1.X-ABADR:sg
+item2.URL;type=pref:www.edinburghcollege.ac.uk
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD

@@ -1,2 +1,2 @@
 # Digital Business Card
-_Edinburgh College_
+_Zoe Kennington_

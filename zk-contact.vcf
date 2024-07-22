@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+Z:Kennington;Zoe;;;
+FN:Zoe Kennington
+TITLE:Writer, Editor, Game Designer
+EMAIL;type=INTERNET;type=WORK;type=pref:zoe@onefreeelephant.co.uk
+item2.URL;type=pref:https://www.onefreeelephant.co.uk/stp/learnOOC.html
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
